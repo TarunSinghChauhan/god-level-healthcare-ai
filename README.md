@@ -22,4 +22,4 @@ Built with **HTML, CSS, JavaScript, and Chart.js** for interactive dashboards an
 
 ---
 
-## 📂 Project Structure
+## 📂 PROJECT STRUCTURE 
